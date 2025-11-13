@@ -1,7 +1,7 @@
 function demo(){
   const name = "Basavaraj"
   return (<div>
-    <p> Hello {name}! How are you</p>
+    <p> Hello {name}!</p>
   </div>)
 }
 export default demo;
