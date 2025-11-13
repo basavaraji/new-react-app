@@ -1,5 +1,5 @@
 function demo(){
-  const name = "Basavaraj"
+  const name = "Chandana R"
   return (<div>
     <p> Hello {name}!</p>
   </div>)
