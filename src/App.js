@@ -1,4 +1,3 @@
-function Hello(){
-  return ( <p>Good Morning</p>)
+function Good(){
+  return ( <div>Good Night</div>)
 }
-export default Hello;
